@@ -7,4 +7,4 @@ knock knock who is there?
 Rupkotha!!!!!!!!!!!!
 
 ## Git control command
-Add(git add .)->commit (git commit -m "description")  -> push(git push origin main)
+Add(git add .) -> commit (git commit -m "description")  -> push(git push origin main)
