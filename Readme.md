@@ -1,3 +1,3 @@
 # Demo
 
-hi this the first github repository.
+Hi, this is the first GitHub repository!
